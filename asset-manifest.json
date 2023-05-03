@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/matthewram38.github.io/static/css/main.851591ee.css",
+    "main.js": "/matthewram38.github.io/static/js/main.8c9a285d.js",
+    "static/js/787.8e41b743.chunk.js": "/matthewram38.github.io/static/js/787.8e41b743.chunk.js",
+    "static/media/Ahmed2.png": "/matthewram38.github.io/static/media/Ahmed2.0817b4b740df8baa8c00.png",
+    "static/media/RyanC.png": "/matthewram38.github.io/static/media/RyanC.aea9fe0dbcfb2e64ab4d.png",
+    "static/media/andrew.png": "/matthewram38.github.io/static/media/andrew.198ce466c2bac30a68a5.png",
+    "static/media/Matt2.png": "/matthewram38.github.io/static/media/Matt2.ce6129f63435fb5a3475.png",
+    "static/media/Chris.png": "/matthewram38.github.io/static/media/Chris.51abb803bf5ab3ccf128.png",
+    "static/media/logo.png": "/matthewram38.github.io/static/media/logo.42a7dc9e2051ea0a60f0.png",
+    "static/media/about-us-backdrop.jpeg": "/matthewram38.github.io/static/media/about-us-backdrop.9ef82030bd6ed9b19958.jpeg",
+    "static/media/doc.md": "/matthewram38.github.io/static/media/doc.b4c3db48fed766c19d73.md",
+    "index.html": "/matthewram38.github.io/index.html",
+    "main.851591ee.css.map": "/matthewram38.github.io/static/css/main.851591ee.css.map",
+    "main.8c9a285d.js.map": "/matthewram38.github.io/static/js/main.8c9a285d.js.map",
+    "787.8e41b743.chunk.js.map": "/matthewram38.github.io/static/js/787.8e41b743.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.851591ee.css",
+    "static/js/main.8c9a285d.js"
+  ]
+}
